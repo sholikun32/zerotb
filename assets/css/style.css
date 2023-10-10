@@ -1724,3 +1724,32 @@ tr:hover {
   color: green;
   font-weight: bold;
 }
+
+/*--------------------------------------------------------------
+# GRAFIK
+--------------------------------------------------------------*/
+.container2 {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+label {
+  font-weight: bold;
+}
+
+select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.chart-container {
+  position: relative;
+  height: 400px;
+  margin-top: 20px;
+}
